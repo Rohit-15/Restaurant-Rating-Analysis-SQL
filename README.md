@@ -10,7 +10,9 @@ Employing advanced querying methods such as group by clauses, data manipulation,
 7) What are the average ratings for places that have both parking and at least two different types of payment methods, compared to those that don't meet these criteria?
 8) What are the top 3 most popular cuisines based on the average overall rating, and within those cuisines, identify the place that has the highest average food rating, along with its most preferred payment method and whether it has a parking lot?
 These analyses provided a comprehensive understanding of the factors influencing customer satisfaction and preferences in the restaurant industry.
-
-
 The ER diagram is as follows:-
+
+
+
+
 <img width="678" alt="Screenshot 2024-01-10 at 11 34 37 AM" src="https://github.com/Rohit-15/Restaurant-Rating-Analysis-SQL/assets/81737564/795c8a21-ac81-4758-a7ae-871e9f4cd5c8">
